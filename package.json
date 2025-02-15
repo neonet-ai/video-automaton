@@ -11,6 +11,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@supabase/supabase-js": "^2.48.1",
+    "@tavily/core": "^0.3.1",
     "agent-twitter-client": "^0.0.18",
     "atoma-sdk": "^0.1.0",
     "dotenv": "^16.4.7",
